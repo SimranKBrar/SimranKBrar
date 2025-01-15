@@ -1,5 +1,5 @@
 # About Me:
-graduate in April 2025. I am an active member of the university community, involved in organizations like the Regina Engineering Students Society, IEEE, and the U of R Women in STEM Club.
+Hi! I’m Simran, a final-year Software Systems Engineering student at the University of Regina, set tograduate in April 2025. I am an active member of the university community, involved in organizations like the Regina Engineering Students Society, IEEE, and the U of R Women in STEM Club.
 
 Currently, I’m focused on my capstone project, but my hands-on experience extends to several co-op internships where I contributed to developing applications and optimizing business processes. Additionally, I volunteer with organizations like the Canadian Federation of Student Societies, which provides essential support to students. These roles have given me the opportunity to make a meaningful impact on my community.
 
